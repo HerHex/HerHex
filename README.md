@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<svg>https://www.codewars.com/users/HerHex/badges/small"</svg
+<svg>https://www.codewars.com/users/HerHex/badges/small"</svg>
 - 🔭 I’m currently working on my fundamentals
 - 🌱 I’m currently learning Javascript,React and C#
 - ⚡ Fun fact: ...
