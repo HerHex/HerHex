@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<svg = https://www.codewars.com/users/HerHex/badges/small></svg>
+<svg width="300" height="200">
+  <polygon points="100,10 40,198 190,78 10,78 160,198"
+  style="fill:lime;stroke:purple;stroke-width:5;fill-rule:evenodd;" />
+</svg>
 - 🔭 I’m currently working on my fundamentals
 - 🌱 I’m currently learning Javascript,React and C#
 - ⚡ Fun fact: ...
