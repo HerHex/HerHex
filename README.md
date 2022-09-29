@@ -1,8 +1,6 @@
 ### Hi there 👋
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/codemzy/codebadges@1.0.4/dist/codebadges.min.css">
-<!-- codeBadges minified JavaScript -->
-<script src="https://cdn.jsdelivr.net/gh/codemzy/codebadges@1.0.4/dist/codebadges.min.js"></script>
-<div class="code-badge badge-small freecodecamp">https://www.codewars.com/users/HerHex/badges/small</div>
+
+<div">https://www.codewars.com/users/HerHex/badges/small</div>
 - 🔭 I’m currently working on my fundamentals
 - 🌱 I’m currently learning Javascript,React and C#
 - ⚡ Fun fact: ...
