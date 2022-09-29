@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my fundamentals  
 - 🌱 I’m currently learning Javascript,React and C#
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm a gamer ! And also a psychologist 
 
 <!--
 **HerHex/HerHex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
