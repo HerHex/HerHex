@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my fundamentals /n
+- 🔭 I’m currently working on my fundamentals  
 - 🌱 I’m currently learning Javascript,React and C#
 - ⚡ Fun fact: ...
 
